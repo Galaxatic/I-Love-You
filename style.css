@@ -30,6 +30,14 @@ a{
 	padding: 50px;
 }
 
+#yes{
+	background-image: url("https://images.theconversation.com/files/122137/original/image-20160511-18171-kulas4.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
+	background-size: cover;
+	border: 5px rgb(159,64,255) solid;
+	padding: 50px;
+	margin: 25px auto 25px auto;
+}
+
 .detail_section{
 	background-image: url("https://static.vecteezy.com/system/resources/previews/001/313/964/original/watercolor-galaxy-sky-texture-in-pink-and-blue-free-vector.jpg");
 	background-size: cover;
