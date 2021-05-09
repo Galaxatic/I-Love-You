@@ -27,6 +27,7 @@ a{
 #header{
 	background-image: url("https://www.yourtango.com/sites/default/files/styles/header_slider/public/image_blog/I-love-you-quotes_0.jpg?itok=HUsZC0cq0");
 	border: 5px rgb(159,64,255) solid;
+	padding: 100px;
 }
 
 #yes{
@@ -34,6 +35,7 @@ a{
 	background-size: cover;
 	border: 5px rgb(159,64,255) solid;
 	margin: 25px auto 25px auto;
+	padding: 100px;
 }
 
 .detail_section{
